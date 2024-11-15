@@ -1,0 +1,8 @@
+{
+	"name": "@vyke/time",
+	"version": "0.3.1",
+	"exports": {
+		".": "./src/index.ts"
+	},
+	"license": "MIT"
+}
