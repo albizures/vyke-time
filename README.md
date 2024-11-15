@@ -4,7 +4,10 @@
 	</h1>
 </div>
 
-A small library to convert with time
+A small library to convert time to different units
+
+[![npm version](https://badge.fury.io/js/%40vyke%2Ftime.svg)](https://badge.fury.io/js/%40vyke%2Ftime)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Features
 - Convert time to different units

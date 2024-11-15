@@ -2,7 +2,7 @@
 	"name": "@vyke/time",
 	"type": "module",
 	"version": "0.0.2",
-	"description": "A small library to convert with time",
+	"description": "A small library to convert time to different units",
 	"author": "Jose Albizures <jose@albizures.com> (https://albizures.com/)",
 	"license": "MIT",
 	"keywords": [],
